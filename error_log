@@ -1,0 +1,1 @@
+[10-Jun-2017 13:23:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ride/public_html/wp-content/themes/jupiter/functions.php:5) in /home/ride/public_html/wp-includes/pluggable.php on line 1195

@@ -1,0 +1,45 @@
+{
+	"getTopTeamsDataResponse": {
+		"teamraiserData": [{
+			"total": "$1200.00",
+			"id": "1001",
+			"name": "Sample Team 1"
+		}, {
+			"total": "$1190.00",
+			"id": "1002",
+			"name": "Sample Team 2"
+		}, {
+			"total": "$1180.00",
+			"id": "1003",
+			"name": "Sample Team 3"
+		}, {
+			"total": "$1170.00",
+			"id": "1004",
+			"name": "Sample Team 4"
+		}, {
+			"total": "$1160.00",
+			"id": "1005",
+			"name": "Sample Team 5"
+		}, {
+			"total": "$1150.00",
+			"id": "1006",
+			"name": "Sample Team 6"
+		}, {
+			"total": "$1140.00",
+			"id": "1007",
+			"name": "Sample Team 7"
+		}, {
+			"total": "$1130.00",
+			"id": "1008",
+			"name": "Sample Team 8"
+		}, {
+			"total": "$1120.00",
+			"id": "1009",
+			"name": "Sample Team 9"
+		}, {
+			"total": "$1110.00",
+			"id": "1010",
+			"name": "Sample Team 10"
+		}]
+	}
+}

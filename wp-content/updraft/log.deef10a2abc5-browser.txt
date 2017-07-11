@@ -1,0 +1,50 @@
+0000.134 (R) [notice] Looking for db archive: file name: backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-db.gz
+0000.134 (R) [notice] Archive is expected to be size: 226.7 KB: OK
+0000.135 (R) [notice] Looking for themes archive: file name: backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-themes.zip
+0000.135 (R) [notice] Archive is expected to be size: 12678.9 KB: OK
+0000.136 (R) [notice] Looking for others archive: file name: backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-others.zip
+0000.136 (R) [notice] Archive is expected to be size: 0.2 KB: OK
+0000.137 (R) [notice] Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.139 (R) [notice] Unpacking backup... (backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-db.gz, 0.2 Mb)
+0000.140 (R) [notice] Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.146 (R) [notice] Enabling Maintenance mode&#8230;
+0000.148 (R) [notice] Backup of: http://staging.causeforce.com
+0000.148 (R) [notice] Content URL: http://staging.causeforce.com/wp-content
+0000.148 (R) [notice] Uploads URL: http://staging.causeforce.com/wp-content/uploads
+0000.148 (R) [notice] Old table prefix: wp_
+0000.149 (R) [notice] Site information: multisite = 0
+0000.151 (R) [notice] New table prefix: wp_
+0000.153 (R) [notice] Processing table (MyISAM):  wp_options
+0000.272 (R) [notice] Processing table (MyISAM):  wp_users
+0000.283 (R) [notice] Processing table (MyISAM):  wp_usermeta
+0000.293 (R) [notice] Processing table (MyISAM):  wp_commentmeta
+0000.299 (R) [notice] Processing table (MyISAM):  wp_comments
+0000.305 (R) [notice] Processing table (MyISAM):  wp_links
+0000.312 (R) [notice] Processing table (MyISAM):  wp_postmeta
+0000.394 (R) [notice] Processing table (MyISAM):  wp_posts
+0000.405 (R) [notice] Processing table (MyISAM):  wp_term_relationships
+0000.412 (R) [notice] Processing table (MyISAM):  wp_term_taxonomy
+0000.419 (R) [notice] Processing table (MyISAM):  wp_termmeta
+0000.425 (R) [notice] Processing table (MyISAM):  wp_terms
+0000.432 (R) [notice] Processing table (MyISAM):  wp_layerslider
+0000.438 (R) [notice] Processing table (MyISAM):  wp_layerslider_revisions
+0000.444 (R) [notice] Processing table (MyISAM):  wp_masterslider_options
+0000.452 (R) [notice] Processing table (MyISAM):  wp_masterslider_sliders
+0000.458 (R) [notice] Processing table (MyISAM):  wp_mk_components
+0000.462 (R) [notice] Database queries processed: 50 in 0.32 seconds
+0000.465 (R) [notice] Processing table (MyISAM):  wp_revslider_css
+0000.488 (R) [notice] Processing table (MyISAM):  wp_revslider_layer_animations
+0000.494 (R) [notice] Processing table (MyISAM):  wp_revslider_navigations
+0000.501 (R) [notice] Processing table (MyISAM):  wp_revslider_sliders
+0000.508 (R) [notice] Processing table (MyISAM):  wp_revslider_slides
+0000.515 (R) [notice] Processing table (MyISAM):  wp_revslider_static_slides
+0000.520 (R) [notice] Disabling Maintenance mode&#8230;
+0000.521 (R) [notice] Finished: lines processed: 66 in 0.38 seconds
+0000.521 (R) [notice] Cleaning up rubbish...
+0000.535 (R) [notice] Unpacking backup... (backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-themes.zip, 12.4 Mb)
+0001.344 (R) [notice] Moving old data out of the way...
+0002.083 (R) [notice] Moving unpacked backup into place...
+0002.905 (R) [notice] Cleaning up rubbish...
+0002.909 (R) [notice] Unpacking backup... (backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-others.zip, 0 Mb)
+0002.911 (R) [notice] Cleaning up rubbish...
+0002.928 (R) [notice] Restore successful!

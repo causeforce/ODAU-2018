@@ -1,0 +1,8 @@
+0000.003 () Opened log file at time: Wed, 19 Apr 2017 23:18:49 +0000 on http://staging.causeforce.com
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.40 WP: 4.7.3 PHP: 5.6.21 (cgi-fcgi, Linux vps20643.inmotionhosting.com 2.6.32-042stab117.11 #1 SMP Thu Aug 11 09:41:14 MSK 2016 x86_64) MySQL: 5.6.35 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 56.4M | 56.8M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.132 () Free space on disk containing Updraft's temporary directory: 38734.4 MB
+0000.134 () Restore job started. Entities to restore: themes, others, db. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.151 () Error message: Existing unremoved folders from a previous restore exist (please use the "Delete Old Directories" button to delete them before trying again): /home/causeforce1oz/subdomains/staging/wp-content/themes-old
+0000.153 () Restore failed...
+0000.153 () Error message: Existing unremoved folders from a previous restore exist (please use the "Delete Old Directories" button to delete them before trying again): /home/causeforce1oz/subdomains/staging/wp-content/themes-old
+0000.153 () Restore failed

@@ -1,0 +1,6 @@
+0000.148 (R) [notice] Looking for db archive: file name: backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-db.gz
+0000.149 (R) [notice] Archive is expected to be size: 226.7 KB: OK
+0000.150 (R) [notice] Looking for themes archive: file name: backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-themes.zip
+0000.150 (R) [notice] Archive is expected to be size: 12678.9 KB: OK
+0000.152 (R) [warning] Error: Existing unremoved folders from a previous restore exist (please use the "Delete Old Directories" button to delete them before trying again): /home/causeforce1oz/subdomains/staging/wp-content/themes-old
+0000.153 (R) [notice] Restore failed...

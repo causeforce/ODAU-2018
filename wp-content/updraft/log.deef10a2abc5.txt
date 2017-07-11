@@ -1,0 +1,65 @@
+0000.002 () Opened log file at time: Wed, 19 Apr 2017 23:19:15 +0000 on http://staging.causeforce.com
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.40 WP: 4.7.3 PHP: 5.6.21 (cgi-fcgi, Linux vps20643.inmotionhosting.com 2.6.32-042stab117.11 #1 SMP Thu Aug 11 09:41:14 MSK 2016 x86_64) MySQL: 5.6.35 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 56.4M | 56.8M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.121 () Free space on disk containing Updraft's temporary directory: 38773.9 MB
+0000.123 () Restore job started. Entities to restore: themes, others, db. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.137 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.139 () Entity: db
+0000.139 () restore_backup(backup_file=backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-db.gz, type=db, info=a:0:{}, last_one=)
+0000.139 () Unpacking backup... (backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-db.gz, 0.2 Mb)
+0000.140 () Database successfully unpacked
+0000.140 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.140 () Using direct MySQL access; value of use_mysqli is: 1
+0000.146 () Max packet size: 256 MB
+0000.146 () Entering maintenance mode
+0000.146 () Enabling Maintenance mode&#8230;
+0000.148 () Backup of: http://staging.causeforce.com
+0000.148 () Content URL: http://staging.causeforce.com/wp-content
+0000.148 () Uploads URL: http://staging.causeforce.com/wp-content/uploads
+0000.149 () Old table prefix: wp_
+0000.149 () Site information: multisite=0
+0000.151 () New table prefix: wp_
+0000.152 () Processing table (MyISAM): wp_options
+0000.223 () Restoring prior UD configuration (table: wp_options; keys: 3)
+0000.272 () Processing table (MyISAM): wp_users
+0000.283 () Processing table (MyISAM): wp_usermeta
+0000.293 () Processing table (MyISAM): wp_commentmeta
+0000.299 () Processing table (MyISAM): wp_comments
+0000.305 () Processing table (MyISAM): wp_links
+0000.312 () Processing table (MyISAM): wp_postmeta
+0000.394 () Processing table (MyISAM): wp_posts
+0000.405 () Processing table (MyISAM): wp_term_relationships
+0000.412 () Processing table (MyISAM): wp_term_taxonomy
+0000.419 () Processing table (MyISAM): wp_termmeta
+0000.425 () Processing table (MyISAM): wp_terms
+0000.432 () Processing table (MyISAM): wp_layerslider
+0000.438 () Processing table (MyISAM): wp_layerslider_revisions
+0000.444 () Processing table (MyISAM): wp_masterslider_options
+0000.452 () Processing table (MyISAM): wp_masterslider_sliders
+0000.458 () Processing table (MyISAM): wp_mk_components
+0000.462 () Database queries processed: 50 in 0.32 seconds
+0000.465 () Processing table (MyISAM): wp_revslider_css
+0000.488 () Processing table (MyISAM): wp_revslider_layer_animations
+0000.494 () Processing table (MyISAM): wp_revslider_navigations
+0000.501 () Processing table (MyISAM): wp_revslider_sliders
+0000.508 () Processing table (MyISAM): wp_revslider_slides
+0000.515 () Processing table (MyISAM): wp_revslider_static_slides
+0000.520 () Unlocking database and leaving maintenance mode
+0000.520 () Disabling Maintenance mode&#8230;
+0000.521 () Finished: lines processed: 66 in 0.38 seconds
+0000.521 () Cleaning up rubbish...
+0000.535 () Entity: themes
+0000.535 () restore_backup(backup_file=backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-themes.zip, type=themes, info=a:2:{s:4:"path";s:56:"/home/causeforce1oz/subdomains/staging/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0000.535 () Unpacking backup... (backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-themes.zip, 12.4 Mb)
+0001.343 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.344 () Moving old data: can potentially use wp_filesystem method / -old
+0001.344 () Moving old data out of the way...
+0002.064 () Top-level entities being moved: jupiter, twentyseventeen, jupiter-child.zip, index.php, jupiter.zip, jupiter-child
+0002.083 () Moving unpacked backup into place...
+0002.883 () Top-level entities being moved: jupiter, twentyseventeen, jupiter-child.zip, index.php, jupiter.zip, jupiter-child
+0002.905 () Cleaning up rubbish...
+0002.909 () Entity: others
+0002.909 () restore_backup(backup_file=backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-others.zip, type=others, info=a:2:{s:4:"path";s:49:"/home/causeforce1oz/subdomains/staging/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0002.909 () Unpacking backup... (backup_2017-04-19-2240_Causeforce_Staging_a6b69c23a047-others.zip, 0 Mb)
+0002.911 () Cleaning up rubbish...
+0002.928 () Restore successful!
+0002.928 () Restore successful
